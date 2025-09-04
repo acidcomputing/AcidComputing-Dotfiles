@@ -1,9 +1,9 @@
 # AcidComputing's Dotfiles
-
+```
 ╔════════════════════════════════════════════════╗
 ║          A C I D    C O M P U T I N G          ║
 ╚════════════════════════════════════════════════╝
-
+```
 This is my dotfiles repo. It contains my dotfiles, configured to my liking.
 It has been rewritten for plain ZSH with a custom color scheme and no configuration framework dependencies.
 
